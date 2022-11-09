@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ee7730d-55c0-49c0-8ab7-11aa40100a4e" name="Changes" comment="dfgd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GestorDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Medico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Paciente.java" afterDir="false" />
+    <list default="true" id="9ee7730d-55c0-49c0-8ab7-11aa40100a4e" name="Changes" comment="subida de readme&#10;reutilizacion de codigo ayudantia anterior y termino de codigo&#10;subida de codigo a rama secundary">
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestorDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestorDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hospital.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -67,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667960464072</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="subida de readme&#10;reutilizacion de codigo ayudantia anterior y termino de codigo">
+      <created>1667962469843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667962469843</updated>
+    </task>
+    <task id="LOCAL-00003" summary="subida de readme&#10;reutilizacion de codigo ayudantia anterior y termino de codigo&#10;subida de codigo a rama secundary">
+      <created>1667962538212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667962538212</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dfgd" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfgd" />
+    <MESSAGE value="subida de readme&#10;reutilizacion de codigo ayudantia anterior y termino de codigo" />
+    <MESSAGE value="subida de readme&#10;reutilizacion de codigo ayudantia anterior y termino de codigo&#10;subida de codigo a rama secundary" />
+    <option name="LAST_COMMIT_MESSAGE" value="subida de readme&#10;reutilizacion de codigo ayudantia anterior y termino de codigo&#10;subida de codigo a rama secundary" />
   </component>
 </project>

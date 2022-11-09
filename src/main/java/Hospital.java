@@ -24,7 +24,7 @@ public class Hospital {
 		return pacientes;
 	}
 
-	public static ArrayList<Medico> getMedicos() {
+	public ArrayList<Medico> getMedicos() {
 		return medicos;
 	}
 

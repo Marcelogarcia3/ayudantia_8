@@ -35,7 +35,7 @@ public class GestorDatos {
             while ((textoArchivo = br.readLine()) != null) {
                 System.out.println("encontré el archivo");
                 String[] data = textoArchivo.split(",");
-                Hospital.getMedicos().add(new Medico(data[0], Integer.parseInt(data[1])));
+                hospital.getMedicos().add(new Medico(data[0], Integer.parseInt(data[1])));
             }
             br.close();
             fr.close();
